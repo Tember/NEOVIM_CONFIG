@@ -23,7 +23,7 @@ set nobackup
 
 
 call plug#begin(stdpath('config'))
-Plug 'Raimondi/delimitMate'
+Plug 'jiangmiao/auto-pairs'
 Plug 'ap/vim-buftabline'
 call plug#end()
 
