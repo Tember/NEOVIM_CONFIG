@@ -25,7 +25,12 @@ set nobackup
 call plug#begin(stdpath('config'))
 Plug 'jiangmiao/auto-pairs'
 Plug 'ap/vim-buftabline'
+Plug 'morhetz/gruvbox'
 call plug#end()
+
+
+
+colorscheme gruvbox
 
 
 
